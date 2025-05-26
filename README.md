@@ -20,6 +20,8 @@
   </a>
 </div>
 
+[Chat me in Discord!](https://discord.com/users/1169929711196049442) &nbsp; [My Spotify and the playlists I made...](https://open.spotify.com/user/31tckfmsmy7m3qsgkook6hwjqqne?si=997788915fef47ea)
+
 <br>
 
 <div align="center">
