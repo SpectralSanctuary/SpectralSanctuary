@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://missionimpossible.fandom.com/wiki/Ethan_Hunt">
-    <img src="https://github.com/user-attachments/assets/847ca501-74c4-48a9-a727-03a018d68d69" alt="Ethan Hunt in Mission: Impossible one jumpscare" width="800">
+    <img src="https://github.com/user-attachments/assets/cbaacfd6-1d70-452d-9014-a4a73511e6c5" alt="Ethan Hunt in Mission: Impossible one jumpscare" width="800">
   </a>
 </p>
 
