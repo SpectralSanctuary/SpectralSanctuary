@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f10bb26-7cc1-4697-8ba0-c96c1a4c1d12" alt="Ethan Hunt in Mission: Impossible one jumpscare" width=700>
+  <img src="https://github.com/user-attachments/assets/847ca501-74c4-48a9-a727-03a018d68d69" alt="Ethan Hunt in Mission: Impossible one jumpscare" width=800>
 </p>
 
 <div align="center">
