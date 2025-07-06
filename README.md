@@ -7,7 +7,7 @@
  $${\textsf{\color{red}❝ I need you to trust me, one last time. ❞}}$$
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/7de93e1a-ac88-4c83-a3df-46c95d1f3008" alt="whoa">
+<img src="https://gifs.crd.co/assets/images/gallery24/a8b600e5.gif?v=ef433a6f" alt="whoa">
 </div>
 
 <br>
