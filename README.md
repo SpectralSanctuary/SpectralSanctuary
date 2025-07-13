@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/6f8de2c2-1786-436a-b72f-2ffb29e84eeb" alt="whoa" width="400">
+<img src="https://github.com/user-attachments/assets/6f8de2c2-1786-436a-b72f-2ffb29e84eeb" alt="whoa" width="300">
 </div>
 
 <p align="center">
@@ -21,10 +21,4 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=f1f1f1&bar_color_cover=false" alt="Fgart">
   </a>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/6f8de2c2-1786-436a-b72f-2ffb29e84eeb" alt="whoa" width="400">
 </div>
