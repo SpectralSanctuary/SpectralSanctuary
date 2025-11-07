@@ -10,6 +10,10 @@
 
  $${\textsf{\color{white}❝ 007. I'm your new Quartermaster. ❞}}$$
 
+  [Join my WhatsApp channel! (not forcing)](https://whatsapp.com/channel/0029VbBtCDRChq6Hzyjeg60W)
+
+<br>
+
 <div align="center">
 <img src="https://64.media.tumblr.com/a5938a48b27ff1036f8b53caf072a950/e530cedacf80aa8e-44/s75x75_c1/30bb0d94570e15c2407a959199d81dc378dcb045.gifv" alt="whoa">
 </div>
