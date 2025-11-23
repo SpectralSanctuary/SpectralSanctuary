@@ -10,10 +10,6 @@
 
  $${\textsf{\color{white}❝ 007. I'm your new Quartermaster. ❞}}$$
 
-  [Join my WhatsApp channel! (not forcing)](https://whatsapp.com/channel/0029VbBtCDRChq6Hzyjeg60W)
-
-<br>
-
 <div align="center">
 <img src="https://64.media.tumblr.com/a5938a48b27ff1036f8b53caf072a950/e530cedacf80aa8e-44/s75x75_c1/30bb0d94570e15c2407a959199d81dc378dcb045.gifv" alt="whoa">
 </div>
@@ -23,6 +19,6 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=f1f1f1&bar_color_cover=false" alt="Fgart">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tckfmsmy7m3qsgkook6hwjqqne&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=f1f1f1&bar_color_cover=false">
   </a>
 </div>
