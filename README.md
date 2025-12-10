@@ -5,6 +5,10 @@
 </p>
 
  $${\textsf{\color{white}❝ We gave you everything you ever dreamed of. ❞}}$$
+<br>
+<div align="center">
+uh sign my ata or straw? or color my tree? ( •̯́ ₃ •̯̀)
+</div>
 
 <div align="center">
 <img src="https://pixels.crd.co/assets/images/gallery12/6ef0f414.gif?v=29416114" alt="whoa">
