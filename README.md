@@ -7,7 +7,7 @@
  $${\textsf{\color{white}❝ We gave you everything you ever dreamed of. ❞}}$$
 <br>
 <div align="center">
-uh sign my ata or straw? or color my tree? ( •̯́ ₃ •̯̀)
+uh sign my ata or straw? ( •̯́ ₃ •̯̀)
 </div>
 
 <div align="center">
